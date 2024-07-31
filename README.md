@@ -1,7 +1,7 @@
 
-# law-gic
+# Law-GIC
 
-**law-gic** is an intelligent law chatbot designed to assist users with legal information and queries. It leverages advanced technologies including **RAG**, **Ollama**, and **LangChain** to provide accurate and context-aware legal advice.
+**Law-GIC** is a law chatbot designed to assist users with legal information and queries. It leverages advanced technologies including **RAG**, **Ollama**, and **LangChain** to provide accurate and context-aware legal advice.
 
 ![Project Icon](path/to/your/icon.png) <!-- Replace with the path to your project icon -->
 
@@ -13,9 +13,10 @@
 
 ## Contributors
 
-- [**Contributor 1**](https://github.com/GokulRao2004) 
-- [**Contributor 2**](https://github.com/contributor2) 
-- [**Contributor 3**](https://github.com/contributor3) 
+Special Thanks to all the contributors/teammates who played a crucial role in making this project successful.
+- [**Gokul A G**](https://github.com/GokulRao2004) 
+- [**Shreevidya R Bhat**](http://github.com/Shreevidya-R-Bhat) 
+- [**Kruthik R Koundinyas**](https://github.com/KruthikKoundinyas) 
 
 
 ## License
