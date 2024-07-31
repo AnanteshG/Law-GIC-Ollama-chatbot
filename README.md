@@ -3,7 +3,7 @@
 
 **Law-GIC** is a law chatbot designed to assist users with legal information and queries. It leverages advanced technologies including **RAG**, **Ollama**, and **LangChain** to provide accurate and context-aware legal advice.
 
-![Project Icon](path/to/your/icon.png) <!-- Replace with the path to your project icon -->
+![Project Icon](icon.png) <!-- Replace with the path to your project icon -->
 
 ## Technologies Used
 
